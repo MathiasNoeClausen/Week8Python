@@ -8,8 +8,8 @@ Tilgå https://www.dba.dk/ og find alle links på siden ved hjælp af BeautifulS
 1. Brug pandas til at oprette et dataframe, som du lægger linksne i.
 2. Opret et sql table og læg dataframet deri.
 ## Exercise 3
-Brug flask til at hive dataen fra databasen ud på en side (hint: GET request).
-Lav en post metode, til at indsætte ny data i tabellen.
+1. Brug flask til at hive dataen fra databasen ud på en side (hint: GET request).
+2. Lav en post metode, til at indsætte ny data i tabellen.
 
 
 
